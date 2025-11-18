@@ -35,7 +35,7 @@ int computeEnergy();
 int main()
 {
 	levels = 16;
-	iterations = 40;
+	iterations = 50;
 	lambda = 5;
 	truncationThreshold = 2;
 
