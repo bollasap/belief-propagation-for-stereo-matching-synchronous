@@ -1,4 +1,10 @@
 # Belief Propagation for Stereo Matching (Synchronous)
+
+> **Repository Moved**  
+> This repository has been moved to a new location and is no longer maintained here.  
+> Please visit the new repository: https://github.com/aposb/loopy-belief-propagation-for-stereo-matching  
+> This repository is archived and kept for reference only.
+
 A C++ implementation of Loopy Belief Propagation for stereo matching. It uses the "min-sum" variation of the algorithm and the "Synchronous" message update schedule.
 
 ## Input Image
